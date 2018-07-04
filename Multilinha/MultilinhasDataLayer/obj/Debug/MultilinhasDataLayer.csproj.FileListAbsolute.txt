@@ -1,0 +1,14 @@
+C:\Projects\Multilinha\Multilinha\MultilinhasDataLayer\bin\Debug\MultilinhasDataLayer.dll
+C:\Projects\Multilinha\Multilinha\MultilinhasDataLayer\bin\Debug\MultilinhasDataLayer.pdb
+C:\Projects\Multilinha\Multilinha\MultilinhasDataLayer\bin\Debug\MultilinhasObjects.dll
+C:\Projects\Multilinha\Multilinha\MultilinhasDataLayer\bin\Debug\MultilinhasObjects.pdb
+C:\Projects\Multilinha\Multilinha\MultilinhasDataLayer\obj\Debug\MultilinhasDataLayer.csprojResolveAssemblyReference.cache
+C:\Projects\Multilinha\Multilinha\MultilinhasDataLayer\obj\Debug\MultilinhasDataLayer.dll
+C:\Projects\Multilinha\Multilinha\MultilinhasDataLayer\obj\Debug\MultilinhasDataLayer.pdb
+C:\Users\sp00959\Source\Repos\Multilinha\MultilinhasDataLayer\bin\Debug\MultilinhasDataLayer.dll
+C:\Users\sp00959\Source\Repos\Multilinha\MultilinhasDataLayer\bin\Debug\MultilinhasDataLayer.pdb
+C:\Users\sp00959\Source\Repos\Multilinha\MultilinhasDataLayer\bin\Debug\MultilinhasObjects.dll
+C:\Users\sp00959\Source\Repos\Multilinha\MultilinhasDataLayer\bin\Debug\MultilinhasObjects.pdb
+C:\Users\sp00959\Source\Repos\Multilinha\MultilinhasDataLayer\obj\Debug\MultilinhasDataLayer.csprojResolveAssemblyReference.cache
+C:\Users\sp00959\Source\Repos\Multilinha\MultilinhasDataLayer\obj\Debug\MultilinhasDataLayer.dll
+C:\Users\sp00959\Source\Repos\Multilinha\MultilinhasDataLayer\obj\Debug\MultilinhasDataLayer.pdb
